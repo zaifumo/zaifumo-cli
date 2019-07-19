@@ -1,7 +1,7 @@
 {
-  "name": "easywebpack-cli",
-  "version": "4.3.6",
-  "description": "Webpack Building Command Line And Boilerplate Init Tool",
+  "name": "zaifumo-cli",
+  "version": "0.1.0",
+  "description": "Boilerplate Init Tool",
   "bin": {
     "easywebpack": "bin/cli.js",
     "easy": "bin/cli.js"
@@ -70,9 +70,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/easy-team/easywebpack-cli.git"
+    "url": "git+https://github.com/zaifumo/zaifumo-cli.git"
   },
-  "author": "hubcarl@126.com",
+  "author": "kecoyo@163.com",
   "license": "MIT",
-  "homepage": "https://github.com/easy-team/easywebpack-cli"
+  "homepage": "https://github.com/zaifumo/zaifumo-cli"
 }
