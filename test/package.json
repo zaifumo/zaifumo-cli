@@ -4,7 +4,7 @@
   "description": "easywebpack upgrade test",
   "scripts": {},
   "dependencies": {
-    "axios": "^0.17.1",
+    "axios": "^0.19.0",
     "egg": "^2.1.0",
     "egg-bin": "^4.3.7",
     "egg-cors": "^2.0.0",
