@@ -38,9 +38,6 @@
       "error",
       "expression"
     ],
-    "comma-dangle": [
-      "error",
-      "never"
-    ]
+    "comma-dangle": "off"
   }
 }
